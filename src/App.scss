@@ -1,17 +1,107 @@
 @import "~bootstrap/scss/bootstrap";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
 
-.App {
-  text-align: center;
-}
+$gray: #e0e0e0;
+$white: #f9f9f9;
+$black: #303030;
+$montserrat: 'Montserrat', sans-serif;
 
-.App-header {
-  background-color: #e0e0e0;
+html, body {
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  padding:0;
+  margin:0;
+  font-family: $montserrat;
+  color: $black;
 }
 
+.bg-main{
+  min-height: 100vh;
+  max-height: 100vh;
+  background-color: $gray;
+}
+
+.whole-content{
+  background-color: $gray;
+  padding: 20px;
+  z-index: 30;
+}
+
+.col-side-menu{
+  background-color: $white;
+  border-radius: 20px;
+}
+
+.row-projectname{
+  min-height: 95vh;
+  padding: 20px;
+}
+
+.projectname{
+  font-family: $montserrat;
+  font-weight: 600;
+  font-size: 1.3em;
+}
+
+.col-header{
+  //background-color: red;
+  min-height: 95vh;
+}
+
+// .row-header{
+//   background-color: blue;
+
+// }
+.row-header{
+  height: 42px;
+}
+
+.header-function{
+  width: 42px;
+  background-color: $white;
+  border-radius: 10px;
+}
+
+.space{
+  width: 20px;
+}
+
+.setting{
+  background-color: $gray;
+}
+
+
+.row-content{
+  //@extend: cadetblue;
+  height: 85%;
+}
+
+.div-img{
+  width: 100%;
+}
+
+.div-img img{
+  width: 50%;
+}
+
+
+.row-clock{
+  //background-color: darkgoldenrod;
+  height: 10%;
+}
+
+.clock{
+  font-size: 0.5;
+}
+
+.row-member{
+  position: absolute;
+  bottom:0;
+}
+.avatar{
+  background-color: $gray;
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin-right: 130px;
+}

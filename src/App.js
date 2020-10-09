@@ -1,14 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
+import { Container } from 'react-bootstrap';
 import './App.scss';
+import Menu from './Menu/Navi';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        kumoon
-      </header>
-    </div>
+    <Container fluid className="bg-main">
+      <Menu />
+    </Container>
   );
 }
 
