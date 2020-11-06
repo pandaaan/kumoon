@@ -1,15 +1,42 @@
 @import "~bootstrap/scss/bootstrap";
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap");
 
-html{
+html {
   background-color: #e0e0e0;
   min-height: 100vh;
 }
 
-.place-empty{
+.title-bg {
+  min-height: 100vh;
+}
+
+.logo {
+  width: 500px;
+}
+
+.logo-col {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.subtitle {
+  margin-bottom: 0;
+}
+
+.place-empty {
   height: 200px;
 }
 
-.place{
+.place {
   height: 50px;
+}
+
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) {
+  .logo {
+    width: 300px;
+  }
 }
