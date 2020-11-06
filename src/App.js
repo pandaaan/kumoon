@@ -1,14 +1,31 @@
-import React from 'react';
-import { Container } from 'react-bootstrap';
+import React, { Component } from 'react';
+import { Container, Row, Col } from 'react-bootstrap';
+import WbCloudyIcon from '@material-ui/icons/WbCloudy';
 import './App.scss';
-import Menu from './Menu/Navi';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+import Prolog from './Components/Prolog/Prolog';
+import ChapterOne from './Components/ChapterOne/ChapterOne';
 
-function App() {
-  return (
-    <Container fluid className="bg-main">
-      <Menu />
-    </Container>
-  );
+AOS.init();
+
+class App extends Component {
+  render() {
+    return (
+      <Container className="bg-main">
+        <Row>
+          <Col>
+            <h4>mây <WbCloudyIcon /></h4>
+          </Col>
+        </Row>
+
+        <br />
+        <Prolog />
+        <div className="place-empty"></div>
+        <ChapterOne />
+        <div className="place"></div>
+      </Container>
+    );
+  }
 }
-
 export default App;
