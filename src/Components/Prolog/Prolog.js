@@ -9,31 +9,31 @@ class Prolog extends Component {
             <div id="prolog">
                 <Row>
                     <Col>
-                        <h3>#Prolog</h3>
+                        <h3 data-aos="fade-right" data-aos-duration="1000">#Prolog</h3>
                     </Col>
                 </Row>
                 <Row>
                     <Col className="text-center">
-                        <div className="notification">
-                            <span data-aos="zoom-in-up"className="notify-badge">NEW</span>
+                        <div className="notification" data-aos="zoom-in" data-aos-delay="1000">
+
                             <span><img src={Whatsapp} alt="WA-logo" className="whatsapp-logo" /></span>
                         </div>
                     </Col>
                 </Row>
-                <br /><br /><br />
-                <Row>
+                <br />
+                <Row >
                     <Col>
-                        <div className="msg" data-aos="fade-up" data-aos-delay="1050" >
+                        <div className="msg" data-aos="fade-up" data-aos-delay="2000" >
                             <div className="bubble">
                                 <div className="txt">
-                                    <span className="name ly">🧝‍♀️ Ly</span>
+                                    <span className="name ly">&#x1F575; Ly</span>
                                     <span className="timestamp">10:20 pm</span>
                                     <span className="message">Guys check this out!</span>
                                 </div>
                                 <div className="bubble-arrow"></div>
                             </div>
                         </div>
-                        <div className="msg" data-aos="fade-up" data-aos-delay="1500">
+                        <div className="msg" data-aos="fade-up" data-aos-delay="2000">
                             <div className="bubble follow">
                                 <div className="txt">
                                     <span className="timestamp">10:21 pm</span>
@@ -55,7 +55,7 @@ class Prolog extends Component {
                                 <div className="bubble-arrow alt"></div>
                             </div>
                         </div>
-                        <div className="msg" data-aos="fade-up" data-aos-delay="2500" >
+                        <div className="msg" data-aos="fade-up" data-aos-delay="2000">
                             <div className="bubble">
                                 <div className="txt">
                                     <span className="name my">🕵️‍♂️ My</span>
@@ -65,7 +65,7 @@ class Prolog extends Component {
                                 <div className="bubble-arrow"></div>
                             </div>
                         </div>
-                        <div className="msg" data-aos="fade-up" data-aos-delay="2800">
+                        <div className="msg" data-aos="fade-up" data-aos-delay="2000">
                             <div className="bubble">
                                 <div className="txt">
                                     <span className="name ly">🧝‍♀️ Ly</span>
@@ -76,7 +76,7 @@ class Prolog extends Component {
                                 <div className="bubble-arrow"></div>
                             </div>
                         </div>
-                        <div className="msg" data-aos="fade-up" data-aos-delay="3000">
+                        <div className="msg" data-aos="fade-up" data-aos-delay="2000">
                             <div className="bubble alt">
                                 <div className="txt">
                                     <span className="name alt">🧞‍♀️ Dan</span>

@@ -7,9 +7,12 @@ import 'aos/dist/aos.css';
 import Prolog from './Components/Prolog/Prolog';
 import ChapterOne from './Components/ChapterOne/ChapterOne';
 
-AOS.init();
-
 class App extends Component {
+  componentDidMount() {
+    AOS.init({
+      duration: 2000
+    });
+  }
   render() {
     return (
       <Container className="bg-main">
