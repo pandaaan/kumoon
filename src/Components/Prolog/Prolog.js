@@ -15,7 +15,6 @@ class Prolog extends Component {
                 <Row>
                     <Col className="text-center">
                         <div className="notification" data-aos="zoom-in" data-aos-delay="1000">
-
                             <span><img src={Whatsapp} alt="WA-logo" className="whatsapp-logo" /></span>
                         </div>
                     </Col>
