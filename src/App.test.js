@@ -1,5 +1,6 @@
 import React from 'react';
 import { render } from '@testing-library/react';
+import 'antd/dist/antd.css';
 import App from './App';
 
 test('renders learn react link', () => {

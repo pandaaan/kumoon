@@ -1,7 +1,12 @@
 @import "~bootstrap/scss/bootstrap";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
 
 html{
   background-color: #e0e0e0;
   min-height: 100vh;
 }
 
+
+.place{
+  height: 50px;
+}
