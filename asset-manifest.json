@@ -1,29 +1,32 @@
 {
   "files": {
-    "main.css": "/kumoon/static/css/main.d3b07b66.chunk.css",
-    "main.js": "/kumoon/static/js/main.942ab5df.chunk.js",
-    "main.js.map": "/kumoon/static/js/main.942ab5df.chunk.js.map",
+    "main.css": "/kumoon/static/css/main.8a300a00.chunk.css",
+    "main.js": "/kumoon/static/js/main.e300f150.chunk.js",
+    "main.js.map": "/kumoon/static/js/main.e300f150.chunk.js.map",
     "runtime-main.js": "/kumoon/static/js/runtime-main.6fcd8d15.js",
     "runtime-main.js.map": "/kumoon/static/js/runtime-main.6fcd8d15.js.map",
     "static/css/2.4707e12a.chunk.css": "/kumoon/static/css/2.4707e12a.chunk.css",
-    "static/js/2.3517fb67.chunk.js": "/kumoon/static/js/2.3517fb67.chunk.js",
-    "static/js/2.3517fb67.chunk.js.map": "/kumoon/static/js/2.3517fb67.chunk.js.map",
+    "static/js/2.f0d5b1c8.chunk.js": "/kumoon/static/js/2.f0d5b1c8.chunk.js",
+    "static/js/2.f0d5b1c8.chunk.js.map": "/kumoon/static/js/2.f0d5b1c8.chunk.js.map",
     "index.html": "/kumoon/index.html",
-    "precache-manifest.6ce8c09ed926ad6e96731bc80f0760fa.js": "/kumoon/precache-manifest.6ce8c09ed926ad6e96731bc80f0760fa.js",
+    "precache-manifest.682f7f71d919b3272c5bc404a9822fba.js": "/kumoon/precache-manifest.682f7f71d919b3272c5bc404a9822fba.js",
     "service-worker.js": "/kumoon/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/kumoon/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.d3b07b66.chunk.css.map": "/kumoon/static/css/main.d3b07b66.chunk.css.map",
-    "static/js/2.3517fb67.chunk.js.LICENSE.txt": "/kumoon/static/js/2.3517fb67.chunk.js.LICENSE.txt",
-    "static/media/brainstorming.svg": "/kumoon/static/media/brainstorming.9c92368a.svg",
-    "static/media/may_logo.svg": "/kumoon/static/media/may_logo.51fe840d.svg",
-    "static/media/radio-waves.svg": "/kumoon/static/media/radio-waves.f5649707.svg",
-    "static/media/whatsapp.svg": "/kumoon/static/media/whatsapp.f4d7ec09.svg"
+    "static/css/main.8a300a00.chunk.css.map": "/kumoon/static/css/main.8a300a00.chunk.css.map",
+    "static/js/2.f0d5b1c8.chunk.js.LICENSE.txt": "/kumoon/static/js/2.f0d5b1c8.chunk.js.LICENSE.txt",
+    "static/media/360-degrees.svg": "/kumoon/static/media/360-degrees.a7f91afb.svg",
+    "static/media/brainstorming.svg": "/kumoon/static/media/brainstorming.18b778cc.svg",
+    "static/media/emotional-intelligence.svg": "/kumoon/static/media/emotional-intelligence.20fae672.svg",
+    "static/media/mailbox.svg": "/kumoon/static/media/mailbox.556cca78.svg",
+    "static/media/may_logo.svg": "/kumoon/static/media/may_logo.431dc82b.svg",
+    "static/media/whatsapp.svg": "/kumoon/static/media/whatsapp.f4d7ec09.svg",
+    "static/media/working.svg": "/kumoon/static/media/working.d3037a5d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6fcd8d15.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.3517fb67.chunk.js",
-    "static/css/main.d3b07b66.chunk.css",
-    "static/js/main.942ab5df.chunk.js"
+    "static/js/2.f0d5b1c8.chunk.js",
+    "static/css/main.8a300a00.chunk.css",
+    "static/js/main.e300f150.chunk.js"
   ]
 }
