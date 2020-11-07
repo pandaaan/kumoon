@@ -28,8 +28,8 @@ class ChapterOne extends Component {
                 <br />
                 <Row className="" data-aos="fade-up">
                     <Col className="">
-                        <div className="desc text-center">
-                            <p>We were thinking about how a cross-border idea might look like and which ideas that already exists might fit the theme.
+                        <div className="main-desc text-center">
+                            <p className="m-3">We were thinking about how a cross-border idea might look like and which ideas that already exists might fit the theme.
                            </p>
                         </div>
                     </Col>
@@ -52,7 +52,7 @@ class ChapterOne extends Component {
                             <br />
                             <Row>
                                 <Col>
-                                    <p className="m-0">A lot of ideas were related to AR and VR and how conversations often endet with, "but this already exists".</p>
+                                    <p className="m-0 desc">A lot of ideas were related to AR and VR and how conversations often endet with, "but this already exists".</p>
                                 </Col>
                             </Row>
                         </div>
@@ -75,7 +75,7 @@ class ChapterOne extends Component {
                             <br />
                             <Row>
                                 <Col>
-                                    <p className="m-0">Funnily enough TikTok could be considered cross-border since they combine different art forms of film and music, hence we thought the idea mustn't be truly unique but innovative.</p>
+                                    <p className="m-0 desc">Funnily enough TikTok could be considered cross-border since they combine different art forms of film and music, hence we thought the idea mustn't be truly unique but innovative.</p>
                                 </Col>
                             </Row>
                         </div>
@@ -97,7 +97,7 @@ class ChapterOne extends Component {
                             <br />
                             <Row>
                                 <Col>
-                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+                                    <p className="m-0 desc">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
                                 </Col>
                             </Row>
                         </div>
@@ -119,13 +119,14 @@ class ChapterOne extends Component {
                             <br />
                             <Row>
                                 <Col>
-                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+                                    <p className="m-0 desc">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
 
                                 </Col>
                             </Row>
                         </div>
                     </Col>
                 </Row>
+                <div className="place"></div>
             </div>
         );
     }
