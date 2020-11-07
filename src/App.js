@@ -7,6 +7,7 @@ import Logo from './images/may_logo.svg';
 import Prolog from './Components/PartOne/Prolog/Prolog';
 import ChapterOne from './Components/PartOne/ChapterOne';
 import ChapterTwo from './Components/PartOne/ChapterTwo';
+import Navi from './Components/Navi/Navi';
 
 class App extends Component {
   componentDidMount() {
@@ -16,8 +17,9 @@ class App extends Component {
   }
   render() {
     return (
-      <Container fluid className="bg-main p-0 m-0">
-        <Container>
+      <Container className="bg-main wrapper">
+        <Navi />
+        <div id="content">
           <Row className="title-bg align-items-center justify-content-center">
             <Col xs={12} className="d-flex justify-content-center">
               <div className="" data-aos="fade-up ">
@@ -30,28 +32,20 @@ class App extends Component {
               </div>
             </Col>
           </Row>
-        </Container>
-        <br />
-        <Container>
+
+          <br />
+
           <h1>Part 1: Our Story</h1>
           <hr />
           <Prolog />
           <div className="place-empty"></div>
-        </Container>
-        <div className="blue-bg">
-          <Container>
-            <div className="place"></div>
-            <ChapterOne />
-            <div className="place"></div>
-          </Container>
-        </div>
-        <Container>
+          <div className="place"></div>
+          <ChapterOne />
+          <div className="place"></div>
           <div className="place"></div>
           <ChapterTwo />
           <div className="place"></div>
-        </Container>
-
-
+        </div>
       </Container >
     );
   }

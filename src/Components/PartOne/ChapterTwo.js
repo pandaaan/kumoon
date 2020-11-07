@@ -20,6 +20,17 @@ class ChapterOne extends Component {
                         <img alt="WA-logo" className="whatsapp-logo" src={Hammer}></img>
                     </Col>
                 </Row>
+                <Row>
+                    <Col className="">
+
+                    </Col>
+                    <Col className="">
+
+                    </Col>
+                    <Col className="">
+
+                    </Col>
+                </Row>
                 <div className="place"></div>
             </div>
         );

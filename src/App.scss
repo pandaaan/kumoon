@@ -13,6 +13,10 @@ html {
   min-height: 100vh;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 .blue-bg {
   background-color: $secondary;
 }
