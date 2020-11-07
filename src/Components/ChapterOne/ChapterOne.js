@@ -5,6 +5,7 @@ import brainstorming from '../../images/brainstorming.svg';
 import AR from '../../images/360-degrees.svg';
 import Mail from '../../images/mailbox.svg';
 import Mindpalace from '../../images/emotional-intelligence.svg';
+import Workspace from '../../images/working.svg';
 
 class ChapterOne extends Component {
 
@@ -29,6 +30,8 @@ class ChapterOne extends Component {
                             <div className="brainstorm-img d-flex align-items-center">
                                 <Image fluid src={AR} alt="ar-vr" /><h4 className="ml-4">AR/VR</h4>
                             </div>
+                            <br />
+                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
 
                         </div>
                     </Col>
@@ -39,6 +42,8 @@ class ChapterOne extends Component {
                             <div className="brainstorm-img d-flex align-items-center">
                                 <Image fluid src={Mail} alt="mailbox" /><h4 className="ml-4">Bluetooth Penpals</h4>
                             </div>
+                            <br />
+                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
                         </div>
                     </Col>
                 </Row>
@@ -48,6 +53,19 @@ class ChapterOne extends Component {
                             <div className="brainstorm-img d-flex align-items-center">
                                 <Image fluid src={Mindpalace} alt="mindpalace" /><h4 className="ml-4">Mindpalace</h4>
                             </div>
+                            <br />
+                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+                        </div>
+                    </Col>
+                </Row>
+                <Row className=" card-row" data-aos="fade-up">
+                    <Col lg={4} xs={12} className="brainstorm-card h-100 ">
+                        <div className="brainstorm-content">
+                            <div className="brainstorm-img d-flex align-items-center">
+                                <Image fluid src={Workspace} alt="mindpalace" /><h4 className="ml-4">Digital Workingspace</h4>
+                            </div>
+                            <br />
+                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
                         </div>
                     </Col>
                 </Row>
