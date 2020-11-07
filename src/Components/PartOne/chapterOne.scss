@@ -25,9 +25,13 @@ $tertiary: #bae8e8;
   width: 50px;
 }
 
+.desc {
+  font-size: 1.5em;
+}
+
 // Extra small devices (portrait phones, less than 576px)
 @media (max-width: 575.98px) {
-  #chapterOne {
+  #ch-1-1 {
     padding: 20px;
   }
   .card-row {

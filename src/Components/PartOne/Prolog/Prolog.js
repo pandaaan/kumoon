@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './prolog.scss';
 import { Col, Row } from 'react-bootstrap';
-import Whatsapp from '../../images/whatsapp.svg';
+import Whatsapp from '../../../images/whatsapp.svg';
 
 class Prolog extends Component {
     render() {
@@ -9,7 +9,7 @@ class Prolog extends Component {
             <div id="prolog">
                 <Row>
                     <Col xs={12}>
-                        <h2 data-aos="fade-right">#Prolog</h2>
+                        <h2 data-aos="fade-right">Chapter 1: The Beginning</h2>
                     </Col>
                 </Row>
                 <div className="place"></div>
