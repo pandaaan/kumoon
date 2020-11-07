@@ -16,25 +16,37 @@ class App extends Component {
   }
   render() {
     return (
-      <Container className="bg-main">
-        <Row className="title-bg align-items-center justify-content-center">
-          <Col xs={12} className="d-flex justify-content-center">
-            <div className="" data-aos="fade-up text-center">
-              <img src={Logo} className="logo"></img>
-              <h2 className="subtitle-1">let's get creative.</h2>
-              <br />
-              <p className="subtitle">11/20</p>
-              <p>dan, ly, my</p>
-            </div>
+      <Container fluid className="bg-main p-0 m-0">
+        <Container>
+          <Row className="title-bg align-items-center justify-content-center">
+            <Col xs={12} className="d-flex justify-content-center">
+              <div className="" data-aos="fade-up ">
+                <img src={Logo} alt="logo" className="logo"></img>
+                <h2 className="subtitle-1">let's get creative.</h2>
+                <br />
+                <p className="subtitle">11/20</p>
+                <p>dan, ly, my</p>
+              </div>
 
-          </Col>
-        </Row>
+            </Col>
+          </Row>
+
+        </Container>
 
         <br />
-        <Prolog />
-        <div className="place-empty"></div>
-        <ChapterOne />
-        <div className="place"></div>
+        <Container>
+          <Prolog />
+          <div className="place-empty"></div>
+        </Container>
+        <div className="blue-bg">
+          <Container>
+            <div className="place"></div>
+            <ChapterOne />
+            <div className="place"></div>
+          </Container>
+        </div>
+
+
       </Container >
     );
   }

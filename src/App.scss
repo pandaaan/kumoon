@@ -1,9 +1,31 @@
 @import "~bootstrap/scss/bootstrap";
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap");
 
+$headline: #272343;
+$paragraph: #2d334a;
+$background: #fffffe;
+$button: #ffd803;
+$secondary: #e3f6f5;
+$tertiary: #bae8e8;
+
 html {
-  background-color: #e0e0e0;
+  background-color: $background;
   min-height: 100vh;
+}
+
+.blue-bg {
+  background-color: $secondary;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: $headline;
+}
+
+p {
+  color: $paragraph;
 }
 
 .title-bg {

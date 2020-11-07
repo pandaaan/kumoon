@@ -9,7 +9,7 @@ class Prolog extends Component {
             <div id="prolog">
                 <Row>
                     <Col xs={12}>
-                        <h3 data-aos="fade-right">#Prolog</h3>
+                        <h2 data-aos="fade-right">#Prolog</h2>
                     </Col>
                 </Row>
                 <div className="place"></div>
