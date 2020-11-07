@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kumoon/static/css/main.554f0d28.chunk.css",
+    "main.css": "/kumoon/static/css/main.1e88bf2e.chunk.css",
     "main.js": "/kumoon/static/js/main.dc22cd48.chunk.js",
     "main.js.map": "/kumoon/static/js/main.dc22cd48.chunk.js.map",
     "runtime-main.js": "/kumoon/static/js/runtime-main.6fcd8d15.js",
@@ -9,10 +9,10 @@
     "static/js/2.f0d5b1c8.chunk.js": "/kumoon/static/js/2.f0d5b1c8.chunk.js",
     "static/js/2.f0d5b1c8.chunk.js.map": "/kumoon/static/js/2.f0d5b1c8.chunk.js.map",
     "index.html": "/kumoon/index.html",
-    "precache-manifest.00edc3684f9e316001a1882dc3776253.js": "/kumoon/precache-manifest.00edc3684f9e316001a1882dc3776253.js",
+    "precache-manifest.517aa7b2df4ffb9e341bba299de8806b.js": "/kumoon/precache-manifest.517aa7b2df4ffb9e341bba299de8806b.js",
     "service-worker.js": "/kumoon/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/kumoon/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.554f0d28.chunk.css.map": "/kumoon/static/css/main.554f0d28.chunk.css.map",
+    "static/css/main.1e88bf2e.chunk.css.map": "/kumoon/static/css/main.1e88bf2e.chunk.css.map",
     "static/js/2.f0d5b1c8.chunk.js.LICENSE.txt": "/kumoon/static/js/2.f0d5b1c8.chunk.js.LICENSE.txt",
     "static/media/360-degrees.svg": "/kumoon/static/media/360-degrees.a7f91afb.svg",
     "static/media/brainstorming.svg": "/kumoon/static/media/brainstorming.18b778cc.svg",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.6fcd8d15.js",
     "static/css/2.4707e12a.chunk.css",
     "static/js/2.f0d5b1c8.chunk.js",
-    "static/css/main.554f0d28.chunk.css",
+    "static/css/main.1e88bf2e.chunk.css",
     "static/js/main.dc22cd48.chunk.js"
   ]
 }
