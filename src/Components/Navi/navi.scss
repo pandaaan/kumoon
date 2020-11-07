@@ -1,3 +1,10 @@
+$headline: #272343;
+$paragraph: #2d334a;
+$background: #fffffe;
+$button: #ffd803;
+$secondary: #e3f6f5;
+$tertiary: #bae8e8;
+
 .navbar {
     padding: 15px 10px;
     background: #fff;
@@ -41,6 +48,10 @@
     transition: all 0.3s;
 }
 
+.sidebar-logo {
+    width: 100px;
+}
+
 #sidebar.active {
     margin-left: -250px;
 }
@@ -48,6 +59,9 @@
 #sidebar .sidebar-header {
     padding: 20px;
     background: #2d334a;
+    h3 {
+        color: $background;
+    }
 }
 
 #sidebar ul.components {
