@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e77c17314adbe2525c156dc20fb0122",
+    "revision": "350a042c6b3c5f67fd1c8cb51ad93f85",
     "url": "/kumoon/index.html"
   },
   {
-    "revision": "7829a95cfa43814680f1",
+    "revision": "e07c33c225f8028e9be8",
     "url": "/kumoon/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "3b30f24e9679dc74515f",
+    "revision": "6dd6616c63275b214146",
     "url": "/kumoon/static/css/main.868b3f22.chunk.css"
   },
   {
-    "revision": "7829a95cfa43814680f1",
-    "url": "/kumoon/static/js/2.4cd82346.chunk.js"
+    "revision": "e07c33c225f8028e9be8",
+    "url": "/kumoon/static/js/2.df1d651d.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/kumoon/static/js/2.4cd82346.chunk.js.LICENSE.txt"
+    "url": "/kumoon/static/js/2.df1d651d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b30f24e9679dc74515f",
-    "url": "/kumoon/static/js/main.bca7559a.chunk.js"
+    "revision": "6dd6616c63275b214146",
+    "url": "/kumoon/static/js/main.ec87875c.chunk.js"
   },
   {
     "revision": "e8ff1e685f67e1b8a61a",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "20fae672f49fb309eca5a949f9883ff7",
     "url": "/kumoon/static/media/emotional-intelligence.20fae672.svg"
+  },
+  {
+    "revision": "fb682deab2b8a6ab48c189d56c0cdb91",
+    "url": "/kumoon/static/media/hammer.fb682dea.svg"
   },
   {
     "revision": "431dc82b4b20da325efe9b7ca6a2cf8f",
