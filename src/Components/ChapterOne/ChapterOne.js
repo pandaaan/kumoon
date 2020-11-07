@@ -26,46 +26,95 @@ class ChapterOne extends Component {
                 <div className="place"></div>
                 <Row className="d-flex justify-content-end card-row" data-aos="fade-up">
                     <Col lg={4} xs={12} className="brainstorm-card h-100 ">
-                        <div className="brainstorm-content">
-                            <div className="brainstorm-img d-flex align-items-center">
-                                <Image fluid src={AR} alt="ar-vr" /><h4 className="ml-4">AR/VR</h4>
-                            </div>
+                        <div className="brainstorm-content ">
+                            <Row >
+                                <Col xs={1} >
+                                    <div className="brainstorm-img ">
+                                        <Image fluid src={AR} alt="ar-vr" />
+                                    </div>
+                                </Col>
+                                <Col className="d-flex align-items-center pl-5 ">
+                                    <h4 className="">AR/VR</h4>
+                                </Col>
+                            </Row>
                             <br />
-                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+                            <Row>
+                                <Col>
+                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+
+                                </Col>
+                            </Row>
 
                         </div>
+
                     </Col>
                 </Row>
                 <Row className="card-row" data-aos="fade-up">
                     <Col lg={4} xs={12} className="brainstorm-card h-100 ">
                         <div className="brainstorm-content">
-                            <div className="brainstorm-img d-flex align-items-center">
-                                <Image fluid src={Mail} alt="mailbox" /><h4 className="ml-4">Bluetooth Penpals</h4>
-                            </div>
+                            <Row >
+                                <Col xs={1} >
+                                    <div className="brainstorm-img ">
+                                        <Image fluid src={Mail} alt="ar-vr" />
+                                    </div>
+                                </Col>
+                                <Col className="d-flex align-items-center pl-5 ">
+                                    <h4 className="">Bluetooth Penpal</h4>
+                                </Col>
+                            </Row>
                             <br />
-                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+                            <Row>
+                                <Col>
+                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+
+                                </Col>
+                            </Row>
                         </div>
                     </Col>
                 </Row>
                 <Row className="d-flex justify-content-end card-row" data-aos="fade-up">
                     <Col lg={4} xs={12} className="brainstorm-card h-100 ">
                         <div className="brainstorm-content">
-                            <div className="brainstorm-img d-flex align-items-center">
-                                <Image fluid src={Mindpalace} alt="mindpalace" /><h4 className="ml-4">Mindpalace</h4>
-                            </div>
+                            <Row >
+                                <Col xs={1} >
+                                    <div className="brainstorm-img ">
+                                        <Image fluid src={Mindpalace} alt="ar-vr" />
+                                    </div>
+                                </Col>
+                                <Col className="d-flex align-items-center pl-5 ">
+                                    <h4 className="">Mindpalace</h4>
+                                </Col>
+                            </Row>
                             <br />
-                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+                            <Row>
+                                <Col>
+                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+
+                                </Col>
+                            </Row>
                         </div>
                     </Col>
                 </Row>
                 <Row className=" card-row" data-aos="fade-up">
                     <Col lg={4} xs={12} className="brainstorm-card h-100 ">
                         <div className="brainstorm-content">
-                            <div className="brainstorm-img d-flex align-items-center">
-                                <Image fluid src={Workspace} alt="mindpalace" /><h4 className="ml-4">Digital Workingspace</h4>
-                            </div>
+                            <Row >
+                                <Col xs={1} >
+                                    <div className="brainstorm-img ">
+                                        <Image fluid src={Workspace} alt="ar-vr" />
+                                    </div>
+                                </Col>
+                                <Col className="d-flex align-items-center pl-5 ">
+                                    <h4 className="">Digital Workingspace</h4>
+                                </Col>
+                            </Row>
                             <br />
-                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+                            <Row>
+                                <Col>
+                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+
+                                </Col>
+                            </Row>
                         </div>
                     </Col>
                 </Row>
