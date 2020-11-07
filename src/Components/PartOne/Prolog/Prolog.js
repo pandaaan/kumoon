@@ -1,29 +1,29 @@
 import React, { Component } from 'react';
 import './prolog.scss';
 import { Col, Row } from 'react-bootstrap';
-import Whatsapp from '../../images/whatsapp.svg';
+import Whatsapp from '../../../images/whatsapp.svg';
 
 class Prolog extends Component {
     render() {
         return (
             <div id="prolog">
                 <Row>
-                    <Col>
-                        <h3 data-aos="fade-right" data-aos-duration="1000">#Prolog</h3>
+                    <Col xs={12}>
+                        <h2 data-aos="fade-right">Chapter 1: The Beginning</h2>
                     </Col>
                 </Row>
+                <div className="place"></div>
                 <Row>
-                    <Col className="text-center">
-                        <div className="notification" data-aos="zoom-in" data-aos-delay="1000">
-
+                    <Col xs={12} className="text-center">
+                        <div className="notification" data-aos="zoom-in">
                             <span><img src={Whatsapp} alt="WA-logo" className="whatsapp-logo" /></span>
                         </div>
                     </Col>
                 </Row>
-                <br />
-                <Row >
-                    <Col>
-                        <div className="msg" data-aos="fade-up" data-aos-delay="2000" >
+                <div className="place"></div>
+                <Row data-aos-delay="1000">
+                    <Col xs={12}>
+                        <div className="msg" data-aos="fade-up" >
                             <div className="bubble">
                                 <div className="txt">
                                     <span className="name ly">&#x1F575; Ly</span>
@@ -33,7 +33,7 @@ class Prolog extends Component {
                                 <div className="bubble-arrow"></div>
                             </div>
                         </div>
-                        <div className="msg" data-aos="fade-up" data-aos-delay="2000">
+                        <div className="msg" data-aos="fade-up">
                             <div className="bubble follow">
                                 <div className="txt">
                                     <span className="timestamp">10:21 pm</span>
@@ -45,7 +45,7 @@ class Prolog extends Component {
                                 </div>
                             </div>
                         </div>
-                        <div className="msg" data-aos="fade-up" data-aos-delay="2000">
+                        <div className="msg" data-aos="fade-up">
                             <div className="bubble alt">
                                 <div className="txt">
                                     <span className="name alt">🧞‍♀️ Dan</span>
@@ -55,7 +55,7 @@ class Prolog extends Component {
                                 <div className="bubble-arrow alt"></div>
                             </div>
                         </div>
-                        <div className="msg" data-aos="fade-up" data-aos-delay="2000">
+                        <div className="msg" data-aos="fade-up">
                             <div className="bubble">
                                 <div className="txt">
                                     <span className="name my">🕵️‍♂️ My</span>
@@ -65,7 +65,7 @@ class Prolog extends Component {
                                 <div className="bubble-arrow"></div>
                             </div>
                         </div>
-                        <div className="msg" data-aos="fade-up" data-aos-delay="2000">
+                        <div className="msg" data-aos="fade-up">
                             <div className="bubble">
                                 <div className="txt">
                                     <span className="name ly">🧝‍♀️ Ly</span>
@@ -76,7 +76,7 @@ class Prolog extends Component {
                                 <div className="bubble-arrow"></div>
                             </div>
                         </div>
-                        <div className="msg" data-aos="fade-up" data-aos-delay="2000">
+                        <div className="msg" data-aos="fade-up">
                             <div className="bubble alt">
                                 <div className="txt">
                                     <span className="name alt">🧞‍♀️ Dan</span>

@@ -1,5 +1,12 @@
+$headline: #272343;
+$paragraph: #2d334a;
+$background: #fffffe;
+$button: #ffd803;
+$secondary: #e3f6f5;
+$tertiary: #bae8e8;
+
 .whatsapp-logo {
-  height: 80px;
+  height: 60px;
 }
 
 .msg {
@@ -14,7 +21,7 @@
     width: auto;
     height: auto;
     display: block;
-    background: #ebebeb;
+    background: $secondary;
     border-radius: 5px;
     position: relative;
     margin: 10px 0 3px 25px;
@@ -59,7 +66,6 @@
         color: #ff8e3c;
       }
       .message {
-        font-size: 14px;
         font-weight: 500;
         padding: 0 15px 0 15px;
         margin: auto;
@@ -92,7 +98,7 @@
     .bubble-arrow:after {
       content: "";
       position: absolute;
-      border-top: 15px solid #ebebeb;
+      border-top: 15px solid $secondary;
       border-left: 15px solid transparent;
       border-radius: 4px 0 0 0px;
       width: 0;

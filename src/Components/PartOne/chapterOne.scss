@@ -1,0 +1,44 @@
+$headline: #272343;
+$paragraph: #2d334a;
+$background: #fffffe;
+$button: #ffd803;
+$secondary: #e3f6f5;
+$tertiary: #bae8e8;
+
+.waves {
+  height: 40px;
+}
+
+.brainstorm-card {
+  border-radius: 20px;
+  background-color: $background;
+  box-shadow: 0 7px 30px -10px rgba(150, 170, 180, 0.5);
+}
+
+.brainstorm-content {
+  width: 100%;
+  padding: 20px;
+  padding-left: 10px;
+}
+
+.brainstorm-img {
+  width: 50px;
+}
+
+.main-desc {
+  font-size: 1.5em;
+}
+
+.desc {
+  font-size: 1.2em;
+}
+
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) {
+  #ch-1-1 {
+    padding: 20px;
+  }
+  .card-row {
+    margin-bottom: 20px;
+  }
+}
