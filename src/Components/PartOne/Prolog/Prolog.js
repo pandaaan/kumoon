@@ -6,7 +6,7 @@ import Whatsapp from '../../../images/whatsapp.svg';
 class Prolog extends Component {
     render() {
         return (
-            <div id="prolog">
+            <div id="ch-1-1">
                 <Row>
                     <Col xs={12}>
                         <h2 data-aos="fade-right">Chapter 1: The Beginning</h2>

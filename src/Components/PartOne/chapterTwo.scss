@@ -1,0 +1,14 @@
+$headline: #272343;
+$paragraph: #2d334a;
+$background: #fffffe;
+$button: #ffd803;
+$secondary: #e3f6f5;
+$tertiary: #bae8e8;
+
+.ideas-feature-card {
+    border-radius: 20px;
+    background-color: $secondary;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    height: 100px;
+    padding: 10px;
+}
