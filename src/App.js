@@ -7,15 +7,16 @@ import Logo from './images/may_logo.svg';
 import Prolog from './Components/PartOne/Prolog/Prolog';
 import ChapterOne from './Components/PartOne/ChapterOne';
 import ChapterTwo from './Components/PartOne/ChapterTwo';
-import PTwoChapterOne from './Components/PartTwo/PTChapterOne';
+import PTChapterOne from './Components/PartTwo/PTChapterOne';
+import PTChapterTwo from './Components/PartTwo/PTChapterTwo';
 import Navi from './Components/Navi/Navi';
 import ArrowDown from './images/down-arrow.svg';
-
 
 class App extends Component {
   componentDidMount() {
     AOS.init({
-      duration: 2000
+      duration: 2000,
+      disable: 'mobile',
     });
   }
   render() {
@@ -58,9 +59,12 @@ class App extends Component {
             <div className="place"></div>
             <h1>Part 02: The Concept</h1>
             <hr />
-            <p>"Mây is a visual workspace in which you can to be creative, create and come together to collaborate with others."</p>
+            <p className="quote pl-3 lead">Mây is a visual workspace in which you can to be creative, create and come together to collaborate with others.</p>
             <div className="place"></div>
-            <PTwoChapterOne />
+            <PTChapterOne />
+            <div className="place"></div>
+            <div className="place"></div>
+            <PTChapterTwo />
           </Container>
         </Container>
       </div >
