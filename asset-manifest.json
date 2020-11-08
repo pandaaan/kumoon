@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/kumoon/static/css/main.8cae10c7.chunk.css",
-    "main.js": "/kumoon/static/js/main.812d65d4.chunk.js",
-    "main.js.map": "/kumoon/static/js/main.812d65d4.chunk.js.map",
+    "main.css": "/kumoon/static/css/main.a9eb79d9.chunk.css",
+    "main.js": "/kumoon/static/js/main.51559440.chunk.js",
+    "main.js.map": "/kumoon/static/js/main.51559440.chunk.js.map",
     "runtime-main.js": "/kumoon/static/js/runtime-main.6fcd8d15.js",
     "runtime-main.js.map": "/kumoon/static/js/runtime-main.6fcd8d15.js.map",
     "static/css/2.4707e12a.chunk.css": "/kumoon/static/css/2.4707e12a.chunk.css",
-    "static/js/2.e3ea2d21.chunk.js": "/kumoon/static/js/2.e3ea2d21.chunk.js",
-    "static/js/2.e3ea2d21.chunk.js.map": "/kumoon/static/js/2.e3ea2d21.chunk.js.map",
+    "static/js/2.1f213edf.chunk.js": "/kumoon/static/js/2.1f213edf.chunk.js",
+    "static/js/2.1f213edf.chunk.js.map": "/kumoon/static/js/2.1f213edf.chunk.js.map",
     "index.html": "/kumoon/index.html",
-    "precache-manifest.4b6ad711e2772dbf1e5f64a9bcaf8355.js": "/kumoon/precache-manifest.4b6ad711e2772dbf1e5f64a9bcaf8355.js",
+    "precache-manifest.a6ce8a0715cc626622ed55b090080b54.js": "/kumoon/precache-manifest.a6ce8a0715cc626622ed55b090080b54.js",
     "service-worker.js": "/kumoon/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/kumoon/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.8cae10c7.chunk.css.map": "/kumoon/static/css/main.8cae10c7.chunk.css.map",
-    "static/js/2.e3ea2d21.chunk.js.LICENSE.txt": "/kumoon/static/js/2.e3ea2d21.chunk.js.LICENSE.txt",
+    "static/css/main.a9eb79d9.chunk.css.map": "/kumoon/static/css/main.a9eb79d9.chunk.css.map",
+    "static/js/2.1f213edf.chunk.js.LICENSE.txt": "/kumoon/static/js/2.1f213edf.chunk.js.LICENSE.txt",
     "static/media/360-degrees.svg": "/kumoon/static/media/360-degrees.a7f91afb.svg",
     "static/media/brainstorming.svg": "/kumoon/static/media/brainstorming.85f0ead8.svg",
     "static/media/conversation.svg": "/kumoon/static/media/conversation.661820fb.svg",
@@ -24,6 +24,8 @@
     "static/media/may_logo.svg": "/kumoon/static/media/may_logo.f43c2442.svg",
     "static/media/may_logo_white.svg": "/kumoon/static/media/may_logo_white.73b11711.svg",
     "static/media/App.scss": "/kumoon/static/media/may_room.51fa008a.png",
+    "static/media/room_char_interaction-min.JPG": "/kumoon/static/media/room_char_interaction-min.7d56c499.JPG",
+    "static/media/room_char_interaction_workfile-min.JPG": "/kumoon/static/media/room_char_interaction_workfile-min.4b581e4f.JPG",
     "static/media/tik-tok.svg": "/kumoon/static/media/tik-tok.37f04464.svg",
     "static/media/whatsapp.svg": "/kumoon/static/media/whatsapp.f4d7ec09.svg",
     "static/media/working.svg": "/kumoon/static/media/working.d3037a5d.svg"
@@ -31,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.6fcd8d15.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.e3ea2d21.chunk.js",
-    "static/css/main.8cae10c7.chunk.css",
-    "static/js/main.812d65d4.chunk.js"
+    "static/js/2.1f213edf.chunk.js",
+    "static/css/main.a9eb79d9.chunk.css",
+    "static/js/main.51559440.chunk.js"
   ]
 }
