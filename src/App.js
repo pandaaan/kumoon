@@ -20,7 +20,7 @@ class App extends Component {
     return (
       <div className="wrapper d-flex align-items-stretch">
         <Navi />
-        <div id="content" className="">
+        <Container fluid id="content" >
           <div className="background-img">
             <Row className="title-bg align-items-center justify-content-center">
               <Col xs={12} className="d-flex justify-content-center">
@@ -39,7 +39,7 @@ class App extends Component {
           <Container className="">
             <div className="place-empty"></div>
             <div className="place"></div>
-            <h1>Part 1: Our Story</h1>
+            <h1>Part 01: Our Story</h1>
             <hr />
             <Prolog />
             <div className="place-empty"></div>
@@ -48,10 +48,13 @@ class App extends Component {
             <div className="place"></div>
             <div className="place"></div>
             <ChapterTwo />
+            <div className="place-empty"></div>
             <div className="place"></div>
+            <h1>Part 02: The Concept</h1>
+            <hr />
           </Container>
 
-        </div>
+        </Container>
       </div >
     );
   }
