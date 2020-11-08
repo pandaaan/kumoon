@@ -23,13 +23,13 @@ class Navi extends Component {
                                 class="dropdown-toggle">Part 01: Our Story</a>
                             <ul class="collapse list-unstyled" id="homeSubmenu">
                                 <li>
-                                    <a href="#prolog">Chapter 1: The Beginning</a>
+                                    <a href="#ch-1-1">Chapter 1: The Beginning</a>
                                 </li>
                                 <li>
-                                    <a href="#ch-1-1">Chapter 2: Brainstorming</a>
+                                    <a href="#ch-1-2">Chapter 2: Brainstorming</a>
                                 </li>
                                 <li>
-                                    <a href="#ch-1-2">Chapter 3: Solidifying The Idea</a>
+                                    <a href="#ch-1-3">Chapter 3: Solidifying The Idea</a>
                                 </li>
                             </ul>
                         </li>
@@ -38,13 +38,13 @@ class Navi extends Component {
                                 class="dropdown-toggle">Part 02: The Concept</a>
                             <ul class="collapse list-unstyled" id="pageSubmenu">
                                 <li>
-                                    <a href="#">Chapter 1</a>
+                                    <a href="#ch-2-1">Chapter 1: Project Statement</a>
                                 </li>
                                 <li>
-                                    <a href="#">Chapter 2</a>
+                                    <a href="#ch-2-2">Chapter 2: The Room</a>
                                 </li>
                                 <li>
-                                    <a href="#">Chapter 3</a>
+                                    <a href="#ch-2-3">Chapter 3</a>
                                 </li>
                             </ul>
                         </li>

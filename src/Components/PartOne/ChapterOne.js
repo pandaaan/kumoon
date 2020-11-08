@@ -4,14 +4,13 @@ import { Col, Image, Row } from 'react-bootstrap';
 import brainstorming from '../../images/brainstorming.svg';
 import AR from '../../images/360-degrees.svg';
 import TikTok from '../../images/tik-tok.svg';
-import Mindpalace from '../../images/emotional-intelligence.svg';
-import Workspace from '../../images/working.svg';
+import Idea from '../../images/light-bulb.svg';
 
 class ChapterOne extends Component {
 
     render() {
         return (
-            <div id="ch-1-1" >
+            <div id="ch-1-2" >
                 <Row>
                     <Col>
                         <h2 data-aos="fade-right" data-aos-duration="1000" >Chapter 2: Brainstorming</h2>
@@ -60,7 +59,6 @@ class ChapterOne extends Component {
                         </Col>
                     </Row>
                     <Row className="card-row" >
-
                         <Col lg={4} xs={12} className="brainstorm-card h-100 " data-aos="fade-right">
                             <div className="brainstorm-content">
                                 <Row >
@@ -85,7 +83,7 @@ class ChapterOne extends Component {
                                 <Row >
                                     <Col xs={1} >
                                         <div className="brainstorm-img ">
-                                            <Image fluid src={Workspace} alt="ar-vr" />
+                                            <Image fluid src={Idea} alt="ar-vr" />
                                         </div>
                                     </Col>
                                 </Row>

@@ -31,6 +31,7 @@ h4 {
 
 p {
   color: $paragraph;
+  font-size: 1.2em;
 }
 
 .title-bg {
@@ -38,7 +39,7 @@ p {
 }
 
 .background-img {
-  background-image: url(./images/room-01.jpg);
+  background-image: url(./images/may_room.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -46,6 +47,10 @@ p {
 
 .logo {
   width: 400px;
+}
+
+.arrow {
+  width: 30px;
 }
 
 .logo-col {

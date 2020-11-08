@@ -1,14 +1,16 @@
 import React, { Component } from 'react';
-import { Container, Row, Col } from 'react-bootstrap';
+import { Container, Row, Col, Image } from 'react-bootstrap';
 import './App.scss';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-
 import Logo from './images/may_logo.svg';
 import Prolog from './Components/PartOne/Prolog/Prolog';
 import ChapterOne from './Components/PartOne/ChapterOne';
 import ChapterTwo from './Components/PartOne/ChapterTwo';
+import PTwoChapterOne from './Components/PartTwo/PTChapterOne';
 import Navi from './Components/Navi/Navi';
+import ArrowDown from './images/down-arrow.svg';
+
 
 class App extends Component {
   componentDidMount() {
@@ -31,7 +33,11 @@ class App extends Component {
                   <br />
                   <p className="subtitle">11/20</p>
                   <p>MyDaLy</p>
+                  <div className="place"></div>
+                  <Image className="arrow" src={ArrowDown} />
+
                 </div>
+
               </Col>
             </Row>
           </div>
@@ -52,8 +58,10 @@ class App extends Component {
             <div className="place"></div>
             <h1>Part 02: The Concept</h1>
             <hr />
+            <p>"Mây is a visual workspace in which you can to be creative, create and come together to collaborate with others."</p>
+            <div className="place"></div>
+            <PTwoChapterOne />
           </Container>
-
         </Container>
       </div >
     );
