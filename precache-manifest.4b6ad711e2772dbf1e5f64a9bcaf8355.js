@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09610ae392ebddd43c8013ad928eed8f",
+    "revision": "47dc46540d36d2e34aa613f0ab1c2053",
     "url": "/kumoon/index.html"
   },
   {
-    "revision": "aac287ea2c3ab904a09a",
+    "revision": "c51a48bab0850cbae7cb",
     "url": "/kumoon/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "fac414eaccf18fb21e14",
-    "url": "/kumoon/static/css/main.68d32e50.chunk.css"
+    "revision": "729b6beddda8b369b760",
+    "url": "/kumoon/static/css/main.8cae10c7.chunk.css"
   },
   {
-    "revision": "aac287ea2c3ab904a09a",
-    "url": "/kumoon/static/js/2.d0d0c59b.chunk.js"
+    "revision": "c51a48bab0850cbae7cb",
+    "url": "/kumoon/static/js/2.e3ea2d21.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/kumoon/static/js/2.d0d0c59b.chunk.js.LICENSE.txt"
+    "url": "/kumoon/static/js/2.e3ea2d21.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fac414eaccf18fb21e14",
-    "url": "/kumoon/static/js/main.86ae201b.chunk.js"
+    "revision": "729b6beddda8b369b760",
+    "url": "/kumoon/static/js/main.812d65d4.chunk.js"
   },
   {
     "revision": "e8ff1e685f67e1b8a61a",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "661820fb5dfecffebc45b3644177deb6",
     "url": "/kumoon/static/media/conversation.661820fb.svg"
+  },
+  {
+    "revision": "59707b01552eebbc25bd1187b5cbc26e",
+    "url": "/kumoon/static/media/cube.59707b01.svg"
   },
   {
     "revision": "08d0b185d09093fd90edbf189732552e",

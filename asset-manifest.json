@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/kumoon/static/css/main.68d32e50.chunk.css",
-    "main.js": "/kumoon/static/js/main.86ae201b.chunk.js",
-    "main.js.map": "/kumoon/static/js/main.86ae201b.chunk.js.map",
+    "main.css": "/kumoon/static/css/main.8cae10c7.chunk.css",
+    "main.js": "/kumoon/static/js/main.812d65d4.chunk.js",
+    "main.js.map": "/kumoon/static/js/main.812d65d4.chunk.js.map",
     "runtime-main.js": "/kumoon/static/js/runtime-main.6fcd8d15.js",
     "runtime-main.js.map": "/kumoon/static/js/runtime-main.6fcd8d15.js.map",
     "static/css/2.4707e12a.chunk.css": "/kumoon/static/css/2.4707e12a.chunk.css",
-    "static/js/2.d0d0c59b.chunk.js": "/kumoon/static/js/2.d0d0c59b.chunk.js",
-    "static/js/2.d0d0c59b.chunk.js.map": "/kumoon/static/js/2.d0d0c59b.chunk.js.map",
+    "static/js/2.e3ea2d21.chunk.js": "/kumoon/static/js/2.e3ea2d21.chunk.js",
+    "static/js/2.e3ea2d21.chunk.js.map": "/kumoon/static/js/2.e3ea2d21.chunk.js.map",
     "index.html": "/kumoon/index.html",
-    "precache-manifest.ef16ade2f73203f6e19cb9cb82d91ff3.js": "/kumoon/precache-manifest.ef16ade2f73203f6e19cb9cb82d91ff3.js",
+    "precache-manifest.4b6ad711e2772dbf1e5f64a9bcaf8355.js": "/kumoon/precache-manifest.4b6ad711e2772dbf1e5f64a9bcaf8355.js",
     "service-worker.js": "/kumoon/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/kumoon/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.68d32e50.chunk.css.map": "/kumoon/static/css/main.68d32e50.chunk.css.map",
-    "static/js/2.d0d0c59b.chunk.js.LICENSE.txt": "/kumoon/static/js/2.d0d0c59b.chunk.js.LICENSE.txt",
+    "static/css/main.8cae10c7.chunk.css.map": "/kumoon/static/css/main.8cae10c7.chunk.css.map",
+    "static/js/2.e3ea2d21.chunk.js.LICENSE.txt": "/kumoon/static/js/2.e3ea2d21.chunk.js.LICENSE.txt",
     "static/media/360-degrees.svg": "/kumoon/static/media/360-degrees.a7f91afb.svg",
     "static/media/brainstorming.svg": "/kumoon/static/media/brainstorming.85f0ead8.svg",
     "static/media/conversation.svg": "/kumoon/static/media/conversation.661820fb.svg",
+    "static/media/cube.svg": "/kumoon/static/media/cube.59707b01.svg",
     "static/media/down-arrow.svg": "/kumoon/static/media/down-arrow.08d0b185.svg",
     "static/media/hammer.svg": "/kumoon/static/media/hammer.fb682dea.svg",
     "static/media/light-bulb.svg": "/kumoon/static/media/light-bulb.cad845c5.svg",
@@ -30,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.6fcd8d15.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.d0d0c59b.chunk.js",
-    "static/css/main.68d32e50.chunk.css",
-    "static/js/main.86ae201b.chunk.js"
+    "static/js/2.e3ea2d21.chunk.js",
+    "static/css/main.8cae10c7.chunk.css",
+    "static/js/main.812d65d4.chunk.js"
   ]
 }
