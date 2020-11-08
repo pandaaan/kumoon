@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/kumoon/static/css/main.868b3f22.chunk.css",
-    "main.js": "/kumoon/static/js/main.ec87875c.chunk.js",
-    "main.js.map": "/kumoon/static/js/main.ec87875c.chunk.js.map",
+    "main.css": "/kumoon/static/css/main.85d0274d.chunk.css",
+    "main.js": "/kumoon/static/js/main.13d64c84.chunk.js",
+    "main.js.map": "/kumoon/static/js/main.13d64c84.chunk.js.map",
     "runtime-main.js": "/kumoon/static/js/runtime-main.6fcd8d15.js",
     "runtime-main.js.map": "/kumoon/static/js/runtime-main.6fcd8d15.js.map",
     "static/css/2.4707e12a.chunk.css": "/kumoon/static/css/2.4707e12a.chunk.css",
-    "static/js/2.df1d651d.chunk.js": "/kumoon/static/js/2.df1d651d.chunk.js",
-    "static/js/2.df1d651d.chunk.js.map": "/kumoon/static/js/2.df1d651d.chunk.js.map",
+    "static/js/2.1e6acef1.chunk.js": "/kumoon/static/js/2.1e6acef1.chunk.js",
+    "static/js/2.1e6acef1.chunk.js.map": "/kumoon/static/js/2.1e6acef1.chunk.js.map",
     "index.html": "/kumoon/index.html",
-    "precache-manifest.b325578703504ea40664cc8516e20ba7.js": "/kumoon/precache-manifest.b325578703504ea40664cc8516e20ba7.js",
+    "precache-manifest.4d58a7c227cdd205033abab4f46c7b5c.js": "/kumoon/precache-manifest.4d58a7c227cdd205033abab4f46c7b5c.js",
     "service-worker.js": "/kumoon/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/kumoon/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.868b3f22.chunk.css.map": "/kumoon/static/css/main.868b3f22.chunk.css.map",
-    "static/js/2.df1d651d.chunk.js.LICENSE.txt": "/kumoon/static/js/2.df1d651d.chunk.js.LICENSE.txt",
+    "static/css/main.85d0274d.chunk.css.map": "/kumoon/static/css/main.85d0274d.chunk.css.map",
+    "static/js/2.1e6acef1.chunk.js.LICENSE.txt": "/kumoon/static/js/2.1e6acef1.chunk.js.LICENSE.txt",
     "static/media/360-degrees.svg": "/kumoon/static/media/360-degrees.a7f91afb.svg",
     "static/media/brainstorming.svg": "/kumoon/static/media/brainstorming.85f0ead8.svg",
     "static/media/emotional-intelligence.svg": "/kumoon/static/media/emotional-intelligence.20fae672.svg",
     "static/media/hammer.svg": "/kumoon/static/media/hammer.fb682dea.svg",
-    "static/media/may_logo.svg": "/kumoon/static/media/may_logo.431dc82b.svg",
+    "static/media/may_logo.svg": "/kumoon/static/media/may_logo.f43c2442.svg",
+    "static/media/may_logo_white.svg": "/kumoon/static/media/may_logo_white.73b11711.svg",
+    "static/media/App.scss": "/kumoon/static/media/room-01.388df674.jpg",
     "static/media/tik-tok.svg": "/kumoon/static/media/tik-tok.37f04464.svg",
     "static/media/whatsapp.svg": "/kumoon/static/media/whatsapp.f4d7ec09.svg",
     "static/media/working.svg": "/kumoon/static/media/working.d3037a5d.svg"
@@ -26,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.6fcd8d15.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.df1d651d.chunk.js",
-    "static/css/main.868b3f22.chunk.css",
-    "static/js/main.ec87875c.chunk.js"
+    "static/js/2.1e6acef1.chunk.js",
+    "static/css/main.85d0274d.chunk.css",
+    "static/js/main.13d64c84.chunk.js"
   ]
 }
