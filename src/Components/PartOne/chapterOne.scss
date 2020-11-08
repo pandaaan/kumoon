@@ -5,14 +5,10 @@ $button: #ffd803;
 $secondary: #e3f6f5;
 $tertiary: #bae8e8;
 
-.waves {
-  height: 40px;
-}
-
 .brainstorm-card {
   border-radius: 20px;
-  background-color: $background;
-  box-shadow: 0 7px 30px -10px rgba(150, 170, 180, 0.5);
+  background-color: $secondary;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
 }
 
 .brainstorm-content {
@@ -33,11 +29,12 @@ $tertiary: #bae8e8;
   font-size: 1.2em;
 }
 
+.ideas {
+  padding: 15px;
+}
+
 // Extra small devices (portrait phones, less than 576px)
 @media (max-width: 575.98px) {
-  #ch-1-1 {
-    padding: 20px;
-  }
   .card-row {
     margin-bottom: 20px;
   }
