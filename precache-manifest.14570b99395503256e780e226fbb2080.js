@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb44e0faa3f61be2240cd9e98d3666cb",
+    "revision": "4895f390ebaeee58034cfd5647124940",
     "url": "/kumoon/index.html"
   },
   {
-    "revision": "72f2fc169db7f21fd77a",
+    "revision": "86324c5c053b0f5f221b",
     "url": "/kumoon/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "6ee3fd3cc09b3b77b7d5",
-    "url": "/kumoon/static/css/main.a9eb79d9.chunk.css"
+    "revision": "60ce39a4a5cfadd6864d",
+    "url": "/kumoon/static/css/main.dc55071b.chunk.css"
   },
   {
-    "revision": "72f2fc169db7f21fd77a",
-    "url": "/kumoon/static/js/2.1f213edf.chunk.js"
+    "revision": "86324c5c053b0f5f221b",
+    "url": "/kumoon/static/js/2.d8b336a3.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/kumoon/static/js/2.1f213edf.chunk.js.LICENSE.txt"
+    "url": "/kumoon/static/js/2.d8b336a3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ee3fd3cc09b3b77b7d5",
-    "url": "/kumoon/static/js/main.51559440.chunk.js"
+    "revision": "60ce39a4a5cfadd6864d",
+    "url": "/kumoon/static/js/main.05fe8d0f.chunk.js"
   },
   {
     "revision": "e8ff1e685f67e1b8a61a",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a7f91afb7383ed5ddfda2a3391131514",
     "url": "/kumoon/static/media/360-degrees.a7f91afb.svg"
+  },
+  {
+    "revision": "64697d7b014e8f2d3815dcdb789fc402",
+    "url": "/kumoon/static/media/bookshelf.64697d7b.png"
   },
   {
     "revision": "85f0ead88fbbd3ac69e5a9fb5d8eafb6",
@@ -52,6 +56,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kumoon/static/media/hammer.fb682dea.svg"
   },
   {
+    "revision": "f0a58dc3ef165f3294f90c334b68a9e8",
+    "url": "/kumoon/static/media/insideBook.f0a58dc3.png"
+  },
+  {
+    "revision": "2e277ff83e556874d62ae133228df036",
+    "url": "/kumoon/static/media/left-arrow.2e277ff8.svg"
+  },
+  {
     "revision": "cad845c563f2d7b1c1a391df039357b9",
     "url": "/kumoon/static/media/light-bulb.cad845c5.svg"
   },
@@ -68,8 +80,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kumoon/static/media/may_room.51fa008a.png"
   },
   {
-    "revision": "7d56c49985a71717f47d27daa6ae2416",
-    "url": "/kumoon/static/media/room_char_interaction-min.7d56c499.JPG"
+    "revision": "35337a07dfc2225d1334975520bb9d25",
+    "url": "/kumoon/static/media/postit.35337a07.png"
+  },
+  {
+    "revision": "10d7b5cc2f0103524ca3659bd3354303",
+    "url": "/kumoon/static/media/right-arrow.10d7b5cc.svg"
   },
   {
     "revision": "4b581e4f42eca0a26b7250338699b81f",
