@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33b746af6c903d540d1a40d70b61df7d",
+    "revision": "ef086545d53d81ed2bdc0a7d416c9a10",
     "url": "/kumoon/index.html"
   },
   {
-    "revision": "069bc38f36efc7e4d888",
+    "revision": "d7756c59a3b65d18e96d",
     "url": "/kumoon/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "3dd71922635dd313f99a",
-    "url": "/kumoon/static/css/main.a532715f.chunk.css"
+    "revision": "cf40546559aa0a55a870",
+    "url": "/kumoon/static/css/main.eb42a8c2.chunk.css"
   },
   {
-    "revision": "069bc38f36efc7e4d888",
-    "url": "/kumoon/static/js/2.1e6acef1.chunk.js"
+    "revision": "d7756c59a3b65d18e96d",
+    "url": "/kumoon/static/js/2.7980c1d0.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/kumoon/static/js/2.1e6acef1.chunk.js.LICENSE.txt"
+    "url": "/kumoon/static/js/2.7980c1d0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3dd71922635dd313f99a",
-    "url": "/kumoon/static/js/main.a5b22d25.chunk.js"
+    "revision": "cf40546559aa0a55a870",
+    "url": "/kumoon/static/js/main.e537933b.chunk.js"
   },
   {
     "revision": "e8ff1e685f67e1b8a61a",
@@ -36,12 +36,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kumoon/static/media/brainstorming.85f0ead8.svg"
   },
   {
-    "revision": "20fae672f49fb309eca5a949f9883ff7",
-    "url": "/kumoon/static/media/emotional-intelligence.20fae672.svg"
+    "revision": "08d0b185d09093fd90edbf189732552e",
+    "url": "/kumoon/static/media/down-arrow.08d0b185.svg"
   },
   {
     "revision": "fb682deab2b8a6ab48c189d56c0cdb91",
     "url": "/kumoon/static/media/hammer.fb682dea.svg"
+  },
+  {
+    "revision": "cad845c563f2d7b1c1a391df039357b9",
+    "url": "/kumoon/static/media/light-bulb.cad845c5.svg"
   },
   {
     "revision": "f43c244236e860956b80d84b2823f580",
@@ -52,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kumoon/static/media/may_logo_white.73b11711.svg"
   },
   {
-    "revision": "065607fe5af45e6f6bb761a630d08cff",
-    "url": "/kumoon/static/media/room-01.065607fe.jpg"
+    "revision": "51fa008af8571a979749946f7801fb4b",
+    "url": "/kumoon/static/media/may_room.51fa008a.png"
   },
   {
     "revision": "37f0446447c7108761202145ef2c25e3",
