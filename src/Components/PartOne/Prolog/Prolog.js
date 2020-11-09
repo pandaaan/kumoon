@@ -9,7 +9,7 @@ class Prolog extends Component {
             <div id="ch-1-1">
                 <Row>
                     <Col xs={12}>
-                        <h2 data-aos="fade-right">Chapter 1: The Beginning</h2>
+                        <h2 data-aos="fade-right">The Beginning</h2>
                     </Col>
                 </Row>
                 <div className="place"></div>
@@ -70,7 +70,7 @@ class Prolog extends Component {
                                 <div className="txt">
                                     <span className="name ly">🧝‍♀️ Ly</span>
                                     <span className="timestamp">10:43 pm</span>
-                                    <span className="message">We should try it. <br /> We have nothing to loose.</span>
+                                    <span className="message">We should try it. <br /> We have nothing to lose.</span>
 
                                 </div>
                                 <div className="bubble-arrow"></div>

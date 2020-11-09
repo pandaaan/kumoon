@@ -8,43 +8,41 @@ class Navi extends Component {
     render() {
         return (
             <nav id="sidebar" className="active">
-                <div class="custom-menu">
-                    <button type="button" id="sidebarCollapse" class="btn btn-primary">
+                <div className="custom-menu">
+                    <button type="button" id="sidebarCollapse" className="btn btn-primary">
                         <MenuIcon id="menu-icon" />
-                        <span class="sr-only">Toggle Menu</span>
+                        <span className="sr-only">Toggle Menu</span>
                     </button>
                 </div>
-                <div class="p-4 pt-5">
-                    <a href="#" class="side-logo" ><Image fluid src={Logo} /></a>
+                <div className="p-4">
+                    <br />
+                    <a href="#" className="side-logo" ><Image fluid src={Logo} /></a>
                     <br /> <br />
-                    <ul class="list-unstyled components mb-5">
-                        <li class="active">
+                    <ul className="list-unstyled components">
+                        <li className="active">
                             <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false"
-                                class="dropdown-toggle">Part 01: Our Story</a>
-                            <ul class="collapse list-unstyled" id="homeSubmenu">
+                                className="dropdown-toggle">01: Our Story</a>
+                            <ul className="collapse list-unstyled" id="homeSubmenu">
                                 <li>
-                                    <a href="#ch-1-1">Chapter 1: The Beginning</a>
+                                    <a href="#ch-1-1">The Beginning</a>
                                 </li>
                                 <li>
-                                    <a href="#ch-1-2">Chapter 2: Brainstorming</a>
+                                    <a href="#ch-1-2">Brainstorming</a>
                                 </li>
                                 <li>
-                                    <a href="#ch-1-3">Chapter 3: Solidifying The Idea</a>
+                                    <a href="#ch-1-3">Solidifying The Idea</a>
                                 </li>
                             </ul>
                         </li>
                         <li>
                             <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false"
-                                class="dropdown-toggle">Part 02: The Concept</a>
-                            <ul class="collapse list-unstyled" id="pageSubmenu">
+                                className="dropdown-toggle">02: The Concept</a>
+                            <ul className="collapse list-unstyled" id="pageSubmenu">
                                 <li>
-                                    <a href="#ch-2-1">Chapter 1: Project Statement</a>
+                                    <a href="#ch-2-1">Project Statement</a>
                                 </li>
                                 <li>
-                                    <a href="#ch-2-2">Chapter 2: The Room</a>
-                                </li>
-                                <li>
-                                    <a href="#ch-2-3">Chapter 3</a>
+                                    <a href="#ch-2-2">The Room</a>
                                 </li>
                             </ul>
                         </li>

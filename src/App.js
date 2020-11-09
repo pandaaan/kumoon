@@ -9,8 +9,10 @@ import ChapterOne from './Components/PartOne/ChapterOne';
 import ChapterTwo from './Components/PartOne/ChapterTwo';
 import PTChapterOne from './Components/PartTwo/PTChapterOne';
 import PTChapterTwo from './Components/PartTwo/PTChapterTwo';
+import Footer from './Components/Footer/Footer';
 import Navi from './Components/Navi/Navi';
 import ArrowDown from './images/down-arrow.svg';
+import thanks from './images/thanks_anim.gif';
 
 class App extends Component {
   componentDidMount() {
@@ -46,7 +48,7 @@ class App extends Component {
           <Container className="">
             <div className="place-empty"></div>
             <div className="place"></div>
-            <h1>Part 01: Our Story</h1>
+            <h1>01: Our Story</h1>
             <hr />
             <Prolog />
             <div className="place-empty"></div>
@@ -57,14 +59,28 @@ class App extends Component {
             <ChapterTwo />
             <div className="place-empty"></div>
             <div className="place"></div>
-            <h1>Part 02: The Concept</h1>
+            <h1>02: The Concept</h1>
             <hr />
-            <p className="quote pl-3 lead">Mây is a visual workspace in which you can to be creative, create and come together to collaborate with others.</p>
+            <p className="quote pl-3 lead"> Mây is a visual co-working space and cloud designed like a game that especially explores the art of creative writing.</p>
             <div className="place"></div>
             <PTChapterOne />
             <div className="place"></div>
             <div className="place"></div>
             <PTChapterTwo />
+            <div className="place"></div>
+            <div className="place"></div>
+            <Row>
+              <Col xs={12} className="text-center">
+
+                <div className="room-card">
+                  <Image alt="room" className="border-radius" fluid src={thanks} />
+
+                </div>
+
+              </Col>
+            </Row>
+            <div className="place"></div>
+            <Footer />
           </Container>
         </Container>
       </div >

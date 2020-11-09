@@ -6,7 +6,7 @@ $secondary: #e3f6f5;
 $tertiary: #bae8e8;
 
 .brainstorm-card {
-  border-radius: 20px;
+  border-radius: 10px;
   background-color: $secondary;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
 }
@@ -25,9 +25,9 @@ $tertiary: #bae8e8;
   font-size: 1.5em;
 }
 
-.desc {
-  font-size: 1.2em;
-}
+// .desc {
+//   font-size: 1.2em;
+// }
 
 .ideas {
   padding: 15px;

@@ -11,7 +11,7 @@ class ChapterOne extends Component {
             <div id="ch-1-3">
                 <Row>
                     <Col>
-                        <h2 data-aos="fade-right" data-aos-duration="1000" >Chapter 3: Solidifying The Idea</h2>
+                        <h2 data-aos="fade-right" data-aos-duration="1000" >Solidifying The Idea</h2>
                     </Col>
                 </Row>
                 <div className="place"></div>
@@ -42,24 +42,6 @@ class ChapterOne extends Component {
                             </Row>
                         </div>
                     </Col>
-                    {/* <Col>
-                        <Row>
-                            <Col className="d-flex justify-content-around desc">
-                                <div className="ideas-feature-card d-flex align-items-center justify-content-center">
-                                    <p className="mb-0">Avatar</p>
-                                </div>
-
-                                <div className="ideas-feature-card d-flex align-items-center justify-content-center">
-                                    <p className="mb-0">Objects</p>
-                                </div>
-                                <div className="ideas-feature-card d-flex align-items-center justify-content-center">
-                                    <p className="mb-0">Project Management Tools</p>
-                                </div>
-                            </Col>
-
-                        </Row>
-
-                    </Col> */}
                 </Row>
                 <div className="place"></div>
             </div>

@@ -1,0 +1,55 @@
+$headline: #272343;
+$paragraph: #2d334a;
+$background: #fffffe;
+$button: #ffd803;
+$secondary: #e3f6f5;
+$tertiary: #bae8e8;
+
+.room-card {
+    position: relative;
+    display: inline-block;
+}
+
+.border-radius {
+    border-radius: 10px;
+}
+.room-card .img-top {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+
+.cls-1 {
+    cursor: pointer;
+}
+
+.modal-dialog {
+    max-width: 600px !important; /* New width for default modal */
+}
+
+.carousel-indicators li {
+    background-color: $paragraph !important;
+}
+
+.carousel-control-next-icon {
+    background-image: url(../../../src/images/right-arrow.svg) !important;
+    position: absolute;
+    bottom: 15px !important;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(../../../src/images/left-arrow.svg) !important;
+    position: absolute;
+    bottom: 15px !important;
+}
+
+.calendar-4-detail {
+    height: 200px;
+}
+
+.add {
+    width: 50px;
+
+    border-radius: 10px;
+}

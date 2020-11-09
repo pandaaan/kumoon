@@ -13,7 +13,7 @@ class ChapterOne extends Component {
             <div id="ch-1-2" >
                 <Row>
                     <Col>
-                        <h2 data-aos="fade-right" data-aos-duration="1000" >Chapter 2: Brainstorming</h2>
+                        <h2 data-aos="fade-right" data-aos-duration="1000" >Brainstorming</h2>
                     </Col>
                 </Row>
 

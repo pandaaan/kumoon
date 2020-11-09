@@ -1,0 +1,25 @@
+$headline: #272343;
+$paragraph: #2d334a;
+$background: #fffffe;
+$button: #ffd803;
+$secondary: #e3f6f5;
+$tertiary: #bae8e8;
+
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+    a {
+        color: #b6b5b5;
+        font-size: 0.8em;
+    }
+    &:hover {
+        color: $tertiary;
+    }
+}
+
+.copyright {
+    font-size: 1em;
+}
